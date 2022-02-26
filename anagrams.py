@@ -57,7 +57,6 @@ print(
 '''
 )
 
-
 for word in WORDS:
     points += guess_word(word)
 
